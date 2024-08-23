@@ -1,6 +1,6 @@
 # Superstore-sales-analysis
 
-##Project Overview
+## Project Overview
 The dataset contains information about sales, customers, products, profit, Unit Price and geographical locations from a retail superstore. 
 By analyzing this data, we aim to uncover trends, patterns, and insights that can be used to improve business 
 operations and decision-making.
